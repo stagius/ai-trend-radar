@@ -4,7 +4,6 @@
         <title>OPML Feeds</title>
     </head>
     <body>
-        <outline text="https://ai.googleblog.com/feeds/posts/default" title="https://ai.googleblog.com/feeds/posts/default" type="rss" xmlUrl="https://ai.googleblog.com/feeds/posts/default" htmlUrl="https://ai.googleblog.com/feeds/posts/default" />
         <outline text="https://www.microsoft.com/en-us/research/feed" title="https://www.microsoft.com/en-us/research/feed" type="rss" xmlUrl="https://www.microsoft.com/en-us/research/feed" htmlUrl="https://www.microsoft.com/en-us/research/feed" />
         <outline text="https://rss.arxiv.org/rss/cs.LG" title="https://rss.arxiv.org/rss/cs.LG" type="rss" xmlUrl="https://rss.arxiv.org/rss/cs.LG" htmlUrl="https://rss.arxiv.org/rss/cs.LG" />
         <outline text="https://rss.arxiv.org/rss/cs.AI" title="https://rss.arxiv.org/rss/cs.AI" type="rss" xmlUrl="https://rss.arxiv.org/rss/cs.AI" htmlUrl="https://rss.arxiv.org/rss/cs.AI" />
