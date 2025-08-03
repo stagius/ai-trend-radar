@@ -4,12 +4,12 @@
         <title>OPML Feeds</title>
     </head>
     <body>
+        <outline text="https://ai.googleblog.com/feeds/posts/default" title="https://ai.googleblog.com/feeds/posts/default" type="rss" xmlUrl="https://ai.googleblog.com/feeds/posts/default" htmlUrl="https://ai.googleblog.com/feeds/posts/default" />
+        <outline text="https://www.microsoft.com/en-us/research/feed" title="https://www.microsoft.com/en-us/research/feed" type="rss" xmlUrl="https://www.microsoft.com/en-us/research/feed" htmlUrl="https://www.microsoft.com/en-us/research/feed" />
         <outline text="https://rss.arxiv.org/rss/cs.LG" title="https://rss.arxiv.org/rss/cs.LG" type="rss" xmlUrl="https://rss.arxiv.org/rss/cs.LG" htmlUrl="https://rss.arxiv.org/rss/cs.LG" />
         <outline text="https://rss.arxiv.org/rss/cs.AI" title="https://rss.arxiv.org/rss/cs.AI" type="rss" xmlUrl="https://rss.arxiv.org/rss/cs.AI" htmlUrl="https://rss.arxiv.org/rss/cs.AI" />
         <outline text="https://rss.arxiv.org/rss/stat.ML" title="https://rss.arxiv.org/rss/stat.ML" type="rss" xmlUrl="https://rss.arxiv.org/rss/stat.ML" htmlUrl="https://rss.arxiv.org/rss/stat.ML" />
         <outline text="https://openai.com/blog/rss" title="https://openai.com/blog/rss" type="rss" xmlUrl="https://openai.com/blog/rss" htmlUrl="https://openai.com/blog/rss" />
-        <outline text="https://ai.googleblog.com/feeds/posts/default" title="https://ai.googleblog.com/feeds/posts/default" type="rss" xmlUrl="https://ai.googleblog.com/feeds/posts/default" htmlUrl="https://ai.googleblog.com/feeds/posts/default" />
-        <outline text="https://www.microsoft.com/en-us/research/feed" title="https://www.microsoft.com/en-us/research/feed" type="rss" xmlUrl="https://www.microsoft.com/en-us/research/feed" htmlUrl="https://www.microsoft.com/en-us/research/feed" />
         <outline text="https://feeds.feedburner.com/NvidiaBlog" title="https://feeds.feedburner.com/NvidiaBlog" type="rss" xmlUrl="https://feeds.feedburner.com/NvidiaBlog" htmlUrl="https://feeds.feedburner.com/NvidiaBlog" />
         <outline text="https://www.aitrends.com/feed" title="https://www.aitrends.com/feed" type="rss" xmlUrl="https://www.aitrends.com/feed" htmlUrl="https://www.aitrends.com/feed" />
         <outline text="https://news.mit.edu/rss/topic/artificial-intelligence" title="https://news.mit.edu/rss/topic/artificial-intelligence" type="rss" xmlUrl="https://news.mit.edu/rss/topic/artificial-intelligence" htmlUrl="https://news.mit.edu/rss/topic/artificial-intelligence" />
