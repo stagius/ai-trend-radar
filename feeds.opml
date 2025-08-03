@@ -5,13 +5,10 @@
     </head>
     <body>
         <outline text="https://www.microsoft.com/en-us/research/feed" title="https://www.microsoft.com/en-us/research/feed" type="rss" xmlUrl="https://www.microsoft.com/en-us/research/feed" htmlUrl="https://www.microsoft.com/en-us/research/feed" />
-        <outline text="https://rss.arxiv.org/rss/cs.LG" title="https://rss.arxiv.org/rss/cs.LG" type="rss" xmlUrl="https://rss.arxiv.org/rss/cs.LG" htmlUrl="https://rss.arxiv.org/rss/cs.LG" />
-        <outline text="https://rss.arxiv.org/rss/cs.AI" title="https://rss.arxiv.org/rss/cs.AI" type="rss" xmlUrl="https://rss.arxiv.org/rss/cs.AI" htmlUrl="https://rss.arxiv.org/rss/cs.AI" />
-        <outline text="https://rss.arxiv.org/rss/stat.ML" title="https://rss.arxiv.org/rss/stat.ML" type="rss" xmlUrl="https://rss.arxiv.org/rss/stat.ML" htmlUrl="https://rss.arxiv.org/rss/stat.ML" />
-        <outline text="https://openai.com/blog/rss" title="https://openai.com/blog/rss" type="rss" xmlUrl="https://openai.com/blog/rss" htmlUrl="https://openai.com/blog/rss" />
+        <outline text="https://openai.com/blog/rss" title="https://openai.com/blog/rss" type="rss" xmlUrl="https://openai.com/news/rss.xml" htmlUrl="https://openai.com/blog/rss" />
         <outline text="https://feeds.feedburner.com/NvidiaBlog" title="https://feeds.feedburner.com/NvidiaBlog" type="rss" xmlUrl="https://feeds.feedburner.com/NvidiaBlog" htmlUrl="https://feeds.feedburner.com/NvidiaBlog" />
         <outline text="https://www.aitrends.com/feed" title="https://www.aitrends.com/feed" type="rss" xmlUrl="https://www.aitrends.com/feed" htmlUrl="https://www.aitrends.com/feed" />
-        <outline text="https://news.mit.edu/rss/topic/artificial-intelligence" title="https://news.mit.edu/rss/topic/artificial-intelligence" type="rss" xmlUrl="https://news.mit.edu/rss/topic/artificial-intelligence" htmlUrl="https://news.mit.edu/rss/topic/artificial-intelligence" />
+        <outline text="https://news.mit.edu/rss/topic/artificial-intelligence" title="https://news.mit.edu/rss/topic/artificial-intelligence" type="rss" xmlUrl="https://news.mit.edu/topic/mitartificial-intelligence2-rss.xml" htmlUrl="https://news.mit.edu/rss/topic/artificial-intelligence" />
         <outline text="https://machinelearningmastery.com/blog/feed" title="https://machinelearningmastery.com/blog/feed" type="rss" xmlUrl="https://machinelearningmastery.com/blog/feed" htmlUrl="https://machinelearningmastery.com/blog/feed" />
         <outline text="https://hnrss.org/launches" title="https://hnrss.org/launches" type="rss" xmlUrl="https://hnrss.org/launches" htmlUrl="https://hnrss.org/launches" />
         <outline text="https://hnrss.org/frontpage" title="https://hnrss.org/frontpage" type="rss" xmlUrl="https://hnrss.org/frontpage" htmlUrl="https://hnrss.org/frontpage" />
@@ -23,7 +20,6 @@
         <outline text="https://hnrss.org/newest?q=ai" title="https://hnrss.org/newest?q=ai" type="rss" xmlUrl="https://hnrss.org/newest?q=ai" htmlUrl="https://hnrss.org/newest?q=ai" />
         <outline text="https://hnrss.org/newest?q=ai+agents" title="https://hnrss.org/newest?q=ai+agents" type="rss" xmlUrl="https://hnrss.org/newest?q=ai+agents" htmlUrl="https://hnrss.org/newest?q=ai+agents" />
         <outline text="https://www.producthunt.com/feed" title="https://www.producthunt.com/feed" type="rss" xmlUrl="https://www.producthunt.com/feed" htmlUrl="https://www.producthunt.com/feed" />
-        <outline text="https://paperswithcode.com/rss/spotlight/ai" title="https://paperswithcode.com/rss/spotlight/ai" type="rss" xmlUrl="https://paperswithcode.com/rss/spotlight/ai" htmlUrl="https://paperswithcode.com/rss/spotlight/ai" />
         <outline text="https://techcrunch.com/tag/artificial-intelligence/feed" title="https://techcrunch.com/tag/artificial-intelligence/feed" type="rss" xmlUrl="https://techcrunch.com/tag/artificial-intelligence/feed" htmlUrl="https://techcrunch.com/tag/artificial-intelligence/feed" />
         <outline text="https://venturebeat.com/tag/ai/feed" title="https://venturebeat.com/tag/ai/feed" type="rss" xmlUrl="https://venturebeat.com/tag/ai/feed" htmlUrl="https://venturebeat.com/tag/ai/feed" />
     </body>
